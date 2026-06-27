@@ -10,6 +10,8 @@ node_modules/
 dist/
 build/
 coverage/
+target/
+backend/target/
 
 # Logs
 *.log
