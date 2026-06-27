@@ -5,9 +5,9 @@ Proyecto de practica para construir una aplicacion full stack con buenas practic
 ## Tecnologias
 
 - Frontend: React con Vite
-- Backend: Node.js con Express
+- Backend: Java con Spring Boot
 - Base de datos: PostgreSQL en Supabase
-- ORM: Prisma
+- ORM: Spring Data JPA / Hibernate
 - Control de versiones: Git
 
 ## Objetivo
